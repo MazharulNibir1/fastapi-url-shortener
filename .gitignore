@@ -5,3 +5,5 @@ __pycache__/
 *.log
 .DS_Store
 alembic/versions/__pycache__/
+app/__pycache__
+url_shortener
